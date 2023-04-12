@@ -5,7 +5,7 @@
 
 А будучи студентом онлайн-академии Нетология, я учусь создавать ещё больше интересных штук!
 
-[![image](Images/Netology_logo.png)](https://netology.ru)
+[![image](Images/Netology_logo.png)](https://netology.ru "Перейти на сайт Нетологии")
 
 ___
 
